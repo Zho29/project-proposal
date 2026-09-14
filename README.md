@@ -8,7 +8,7 @@ StockSim: A Risk-Free Stock Market Simulator
 
 ## What and Why?
 
-Millions of young adults want to start investing but are held back by one thing: **fear of losing real money**. The financial markets are complex, volatile, and intimidating for anyone without experience. Traditional investing education — textbooks, YouTube videos, and online articles — is passive. Nothing truly prepares you for the emotional and strategic decisions of real investing like *actually doing it*.
+Millions of young adults want to start investing but are held back by one thing: **fear of losing real money**. The financial markets are complex, volatile, and intimidating for anyone without experience. Traditional investing education is passive. Nothing truly prepares you for the emotional and strategic decisions of real investing like *actually doing it*.
 
 **StockSim** is a mobile web application that simulates the real stock market using live or near-live market data, but with virtual money. Users can build and manage a portfolio, buy and sell stocks, track gains and losses, and learn investing concepts — all without risking a single real dollar.
 

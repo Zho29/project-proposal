@@ -49,6 +49,6 @@ This project is well-suited for a team of **4–6 programmers** over one semeste
 
 - **1) Not too simple**: The app requires a real-time (or near-real-time) data integration layer (stock price API), user authentication, persistent portfolio, transaction history, a dashboard with charting, learning modules, and a leaderboard.
 - **2) Ambitious**: Though, We are not building a real brokerage. There are no real financial transactions, regulatory concerns, or complex order types. We can rely on a free-tier stock data API (e.g., Alpaca, or Yahoo Finance) and focus engineering effort on the application layer.
-- **Clear milestones**: The project maps to iterative development — auth → portfolio → market data → learning modules → making it easy to scope for sprint-based delivery.
+- **3) Clear milestones**: The project maps to iterative development — auth → portfolio → market data → learning modules → making it easy to scope for sprint-based delivery.
 
 

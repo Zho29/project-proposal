@@ -2,7 +2,7 @@
 
 ## Project Title
 
-**StockSim: A Risk-Free Stock Market Simulator **
+StockSim: A Risk-Free Stock Market Simulator
 
 ---
 
